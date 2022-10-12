@@ -60,7 +60,7 @@ temporary life insurance
 
 through the function: temporary_life_insurance(age,interesRate,n,"M")
 
-for example a male,20 year, interest rate= 3%  a duratioin of 45 year
+for example a male,20 year, interest rate= 3%  a duration of 45 year
 
 temporary_life_insurance(20,0.03,45,"M")
 
