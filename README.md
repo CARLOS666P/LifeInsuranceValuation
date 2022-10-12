@@ -1,6 +1,6 @@
 # LifeInsuranceValutation
 
-Using the life tables of the Dominican Republic for the year 2000, and through financial and stochastic models, develop a series of functions in Python for the valuation of simple life insurance based on the calculation of the expected present value, as you will see in detail below.
+Using the life tables of the Dominican Republic for the year 2000, and through financial and Actuarial stochastic models, develop a series of functions in Python for the valuation of simple life insurance based on the calculation of the expected present value, as you will see in detail below.
 
 life annuity due
 ![lifeannuitydue](https://user-images.githubusercontent.com/59314598/195382812-a555066f-e20b-4903-bf39-90b511c89923.jpg)
